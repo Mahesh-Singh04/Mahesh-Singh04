@@ -83,25 +83,22 @@
 
 ## 📈 GitHub Stats
 
-[<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mahesh-Singh04&show_icons=true&theme=github_dark&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahesh-Singh04&layout=compact&theme=github_dark&hide_border=true" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahesh-Singh04&theme=github-dark-blue&hide_border=true"/>
-</p>](https://streak-stats.demolab.com/?user=Mahesh-Singh04&theme=github-dark-blue&hide_border=true)
+  <img src="https://streak-stats.demolab.com/?user=Mahesh-Singh04&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
-## 🧩 Quote I Live By
-
-## 🧩 Quote I Live By
+## 😄 Fun Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card"/>
 </p>
-
 ---
 
 <p align="center">
