@@ -61,12 +61,32 @@
 ---
 
 ## 🗂️ Featured Projects
+## 🚀 Projects
 
-| Project | Tools | Description |
-|---------|-------|-------------|
-| [HR Analytics Dashboard](https://github.com/Mahesh-Singh04) | Power BI, DAX, Excel | KPI dashboard tracking employee attrition, salary distribution & workforce demographics |
-| [Python Learning](https://github.com/Mahesh-Singh04/Python-Learning) | Python | Python practice, OOP, DSA exercises |
-| [SQL Database](https://github.com/Mahesh-Singh04/sql_database) | MySQL | Daily SQL practice — joins, subqueries, window functions |
+### 📊 Customer Shopping Behaviour Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+> End-to-end retail analytics on 3,900+ transactions — from raw data cleaning to interactive dashboard.
+
+- 🧹 Cleaned 15+ columns using **Pandas & NumPy** — handled nulls, duplicates, type errors
+- 🗄️ Wrote **10+ MySQL queries** (JOINs, pivots, aggregations) for business insights
+- 📈 Built **8-KPI Power BI dashboard** — top 3 categories drove ~60% of revenue
+- 🔗 **[View Project →](https://github.com/Mahesh-Singh04/customer-shopping-behavior-analysis)**
+
+---
+
+### 📉 HR Analytics Dashboard
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+> KPI dashboard on 1,470 HR records tracking attrition, salary, and workforce demographics.
+
+- 📊 Built **6 interactive visuals** with **5+ DAX measures**
+- 🔍 Identified **3 key attrition drivers** across departments, roles, and tenure
+- 🔗 **[View Project →](https://github.com/Mahesh-Singh04/hr-analytics-dashboard)**
 
 ---
 
